@@ -7,10 +7,17 @@ export const projects = [
       link: "https://github.com/kristi-h/myLibrary",
     },
     {
+      title: "YuHui",
+      subtitle: "React, React Router, React Hooks, Firebase",
+      description: "A grid game for testing your newly gained vocabulary knowledge.",
+      image: "",
+      link: "https://github.com/kristi-h/yuHui",
+    },
+    {
       title: "Vocabulary Builder",
-      subtitle: "React",
+      subtitle: "React, Javascript, CSS",
       description:
-        "A flashcard app to test your vocabulary",
+        "A flashcard app to help study your vocabulary lists. ",
       image: "",
       link: "https://github.com/kristi-h/vocabBuilder",
     },
